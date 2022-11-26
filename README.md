@@ -1,2 +1,2 @@
 # Previous projects
-All the projects I've a few years ago before break
+All the projects I've done a few years ago before coding break
